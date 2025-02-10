@@ -51,11 +51,11 @@ The dataset contains sales data for various product categories, customer demogra
 
 ## How to Use This Project
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/diwali-sales-analysis.git
+   ```
+   git clone https://github.com/aquibahmadkumarr/diwali-sales-analysis.git
    ```
 2. Install required Python libraries:
-   ```sh
+   ```
    pip install pandas matplotlib seaborn
    ```
 3. Open the Jupyter Notebook and run the analysis.
