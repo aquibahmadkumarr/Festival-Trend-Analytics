@@ -52,7 +52,7 @@ The dataset contains sales data for various product categories, customer demogra
 ## How to Use This Project
 1. Clone the repository:
    ```
-   git clone https://github.com/aquibahmadkumarr/diwali-sales-analysis.git
+   git clone https:https://github.com/aquibahmadkumarr/Diwali-Sale-Analysis
    ```
 2. Install required Python libraries:
    ```
