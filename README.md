@@ -52,7 +52,7 @@ The dataset contains sales data for various product categories, customer demogra
 ## How to Use This Project
 1. Clone the repository:
    ```
-   git clone https://github.com/aquibahmadkumarr/Festivel-Trend-Analytics.git
+   git clone https://github.com/aquibahmadkumarr/Fastivel-Trend-Analytics.git
    ```
 2. Install required Python libraries:
    ```
