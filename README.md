@@ -1,4 +1,4 @@
-# Diwali Sales Analysis
+# Festival Trend Analytics
 
 ## Project Overview
 This project analyzes Diwali sales data to extract key insights about customer behavior, product performance, and regional sales distribution. The analysis helps businesses optimize marketing strategies, inventory management, and sales forecasting.
@@ -52,13 +52,19 @@ The dataset contains sales data for various product categories, customer demogra
 ## How to Use This Project
 1. Clone the repository:
    ```
-   git clone https:https://github.com/aquibahmadkumarr/Diwali-Sale-Analysis
+   git clone https:https://github.com/aquibahmadkumarr/Festival-Trend-Analytics.git
    ```
 2. Install required Python libraries:
    ```
    pip install pandas matplotlib seaborn
    ```
 3. Open the Jupyter Notebook and run the analysis.
+   
+## 💡 Author
+**Aquib Ahmad Kumar**  
+Data Analyst | Data Enthusiast  
+https://www.linkedin.com/in/aquib-ahmad-kumar-34054a34b
+---
 
 ## Conclusion
 This analysis provides valuable insights into sales patterns and customer behavior, helping businesses make data-driven decisions for marketing and inventory planning. Future work could involve integrating machine learning models to predict sales trends more accurately.
