@@ -69,9 +69,6 @@ https://www.linkedin.com/in/aquib-ahmad-kumar-34054a34b
 ## Conclusion
 This analysis provides valuable insights into sales patterns and customer behavior, helping businesses make data-driven decisions for marketing and inventory planning. Future work could involve integrating machine learning models to predict sales trends more accurately.
 
-## Author
-**Aquib Ahmad**
-
 ---
 Feel free to contribute or reach out with any suggestions!
 
